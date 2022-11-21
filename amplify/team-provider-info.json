@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-jsdwwebsolutions-staging-230627-authRole",
+      "UnauthRoleArn": "arn:aws:iam::766480414596:role/amplify-jsdwwebsolutions-staging-230627-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::766480414596:role/amplify-jsdwwebsolutions-staging-230627-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-jsdwwebsolutions-staging-230627-deployment",
+      "UnauthRoleName": "amplify-jsdwwebsolutions-staging-230627-unauthRole",
+      "StackName": "amplify-jsdwwebsolutions-staging-230627",
+      "StackId": "arn:aws:cloudformation:us-east-1:766480414596:stack/amplify-jsdwwebsolutions-staging-230627/f6498dd0-6927-11ed-bfaf-12814d230427",
+      "AmplifyAppId": "d2do3k97zq29sd"
+    },
+    "categories": {
+      "auth": {
+        "JSDWWebSolutions": {}
+      }
+    }
+  }
+}
