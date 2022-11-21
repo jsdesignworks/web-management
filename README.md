@@ -1,145 +1,129 @@
-# [Argon Dashboard 2](http://demos.creative-tim.com/argon-dashboard/pages/dashboard.html?ref=readme-ad2) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/argon-dashboard&text=Check%20Soft%20UI%20Dashboard%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#softdesign%20#html%20https://www.creative-tim.com/product/argon-dashboard) [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/FhCJCaHdQa)
+# [Light Bootstrap Dashboard React](https://demos.creative-tim.com/light-bootstrap-dashboard-react/#/?ref=lbdr-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fcreativetimofficial.github.io%2Flight-bootstrap-dashboard-react&text=Light%20Bootstrap%20Dashboard%20React%20-%20Free%20Bootstrap%20Admin%20Template&original_referer=https%3A%2F%2Fdemos.creative-tim.com%2Flight-bootstrap-dashboard-react%2F&via=creativetim&hashtags=react%2Cbootstrap%2Creact-bootstrap%2Ccreativetim%2Ccreative-tim)
 
-![version](https://img.shields.io/badge/version-2.0.4-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/argon-dashboard.svg)](https://github.com/creativetimofficial/argon-dashboard/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/argon-dashboard.svg)](https://github.com/creativetimofficial/argon-dashboard/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-2.0.1-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/light-bootstrap-dashboard-react.svg?maxAge=2592000)]() [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/light-bootstrap-dashboard-react.svg?maxAge=2592000)]() [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
-![Image](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard/argon-dashboard-2.jpg)
+![Product Gif](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/light-bootstrap-dashboard-react/light-bootstrap-dashboard-react.gif)
 
-Most complex and innovative Dashboard Made by [Creative Tim](https://creative-tim.com/). Check our latest Free Bootstrap 5 Dashboard.
+**[Light Bootstrap Dashboard React](https://demos.creative-tim.com/light-bootstrap-dashboard-react/#/?ref=lbdr-readme)** is an admin dashboard template designed to be beautiful and simple. It is built on top of [React Bootstrap](https://5c507d49471426000887a6a7--react-bootstrap.netlify.com/), using [Light Bootstrap Dashboard](https://www.creative-tim.com/product/light-bootstrap?ref=lbdr-readme) and it is fully responsive. It comes with a big collections of elements that will offer you multiple possibilities to create the app that best fits your needs. It can be used to create admin panels, project management systems, web applications backend, CMS or CRM.
 
-Designed for those who like bold elements and beautiful websites. Made of hundred of elements, designed blocks and fully coded pages, Argon Dashboard 2 is ready to help you create stunning websites and webapps.
+The product represents a big suite of front-end developer tools that can help you jump start your project. We have created it thinking about things you actually need in a dashboard. Light Bootstrap Dashboard React contains multiple handpicked and optimized plugins. Everything is designed to fit with one another. As you will be able to see, the dashboard you can access on Creative Tim is a customization of this product.
 
-We created many examples for pages like Sign In, Profile and so on. Just choose between a Basic Design, an illustration or a cover and you are good to go!
-
-**Fully Coded Elements**
-
-Argon Dashboard 2 is built with over 70 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using SASS files and classes.
-
-You will save a lot of time going from prototyping to full-functional code, because all elements are implemented.
-This Free Bootstrap 5 Dashboard is coming with prebuilt design blocks, so the development process is seamless,
-switching from our pages to the real website is very easy to be done.
-
-View [all components here](https://www.creative-tim.com/learning-lab/bootstrap/alerts/argon-dashboard?ref=readme-ad2).
-
-**Documentation built by Developers**
-
-Each element is well presented in a very complex documentation.
-You can read more about the <a href="https://www.creative-tim.com/learning-lab/bootstrap/overview/argon-dashboard" target="_blank">documentation here</a>.
-
-**Example Pages**
-
-If you want to get inspiration or just show something directly to your clients,
-you can jump start your development with our pre-built example pages. You will be able
-to quickly set up the basic structure for your web project.
-View <a href="https://demos.creative-tim.com/argon-dashboard/pages/dashboard.html" target="_blank">example pages here</a>.
-
+It comes with 6 filter colors for the sidebar (`black`, `azure`,`green`,`orange`,`red`,`purple`) and an option to have a background image.
 
 ## Table of Contents
 
-* [Demo](#demo)
-* [Quick Start](#quick-start)
-* [Documentation](#documentation)
-* [File Structure](#file-structure)
-* [Browser Support](#browser-support)
-* [Resources](#resources)
-* [Reporting Issues](#reporting-issues)
-* [Technical Support or Questions](#technical-support-or-questions)
-* [Licensing](#licensing)
-* [Useful Links](#useful-links)
-
-
+- [Versions](#versions)
+- [Demo](#demo)
+- [Quick Start](#quick-start)
+- [Documentation](#documentation)
+- [File Structure](#file-structure)
+- [Browser Support](#browser-support)
+- [Resources](#resources)
+- [Reporting Issues](#reporting-issues)
+- [Technical Support or Questions](#technical-support-or-questions)
+- [Licensing](#licensing)
+- [Useful Links](#useful-links)
 
 ## Versions
 
+[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/html-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/light-bootstrap-dashboard?ref=lbdr-readme)[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/react-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/light-bootstrap-dashboard-react?ref=lbdr-readme)[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/vue-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/vue-light-bootstrap-dashboard?ref=lbdr-readme)[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/angular-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/light-bootstrap-dashboard-angular2?ref=lbdr-readme)
 
-
-[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/html-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard)
-[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/react-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard-react)
-[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/vue-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/vue-argon-dashboard)
-[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/angular-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard-angular)
-[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/aspnet-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard-asp-net)
-[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/nodejs-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard-nodejs)
-[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/laravel_logo.png" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard-laravel)
-
-
-
-| HTML | React | Vue | Angular |
-| --- | --- | --- | --- |
-| [![Argon Dashboard HTML](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard/argon-dashboard.jpg)](https://www.creative-tim.com/product/argon-dashboard) | [![Argon Dashboard React](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/argon-dashboard-react.jpg)](https://www.creative-tim.com/product/argon-dashboard-react) | [![Vue Argon Dashboard ](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/vue-argon-dashboard/vue-argon-dashboard.jpg)](https://www.creative-tim.com/product/vue-argon-dashboard) | [![Argon Dashboard Angular](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-angular/argon-dashboard-angular.jpg)](https://www.creative-tim.com/product/argon-dashboard-angular)
-
-| Asp.net | Node.js | Laravel |
-| --- | --- | --- |
-| [![Argon Dashboard Asp.net](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-aspnet/argon-dashboard-aspnet.jpg)](https://www.creative-tim.com/product/argon-dashboard-asp-net) | [![Argon Dashboard Node.js](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-nodejs/argon-dashboard-nodejs.jpg)](https://www.creative-tim.com/product/argon-dashboard-nodejs) | [![Argon Dashboard Laravel](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-laravel/argon-dashboard-laravel.jpg)](https://www.creative-tim.com/product/argon-dashboard-laravel) |
-
-
+| HTML                                                                                                                                                                                                                                                   | React                                                                                                                                                                                                                                                                     | Vue                                                                                                                                                                                                                                                               | Angular                                                                                                                                                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Light Bootstrap Dashboard HTML](https://github.com/creativetimofficial/public-assets/blob/master/light-bootstrap-dashboard/light-bootstrap-dashboard.jpg?raw=true)](https://www.creative-tim.com/product/light-bootstrap-dashboard?ref=lbdr-readme) | [![Light Bootstrap Dashboard React](https://github.com/creativetimofficial/public-assets/blob/master/light-bootstrap-dashboard-react/light-bootstrap-dashboard-react.jpg?raw=true)](https://www.creative-tim.com/product/light-bootstrap-dashboard-react?ref=lbdr-readme) | [![Vue Light Bootstrap Dashboard](https://github.com/creativetimofficial/public-assets/blob/master/vue-light-bootstrap-dashboard/vue-light-bootstrap-dashboard.jpg?raw=true)](https://www.creative-tim.com/product/vue-light-bootstrap-dashboard?ref=lbdr-readme) | [![Light Bootstrap Dashboard Angular](https://github.com/creativetimofficial/public-assets/blob/master/light-bootstrap-dashboard-angular/light-bootstrap-dashboard-angular.jpg?raw=true)](https://www.creative-tim.com/product/light-bootstrap-dashboard-angular2?ref=lbdr-readme) |
 
 ## Demo
 
+| Dashboard                                                                                                                                                                                                                                        | User Profile                                                                                                                                                                                                                                       | Tables                                                                                                                                                                                                                                           | Maps                                                                                                                                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Start page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/light-bootstrap-dashboard-react/dashboard-page.png)](https://demos.creative-tim.com/light-bootstrap-dashboard-react/#/admin/dashboard?ref=lbdr-readme) | [![User profile page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/light-bootstrap-dashboard-react/user-page.png)](https://demos.creative-tim.com/light-bootstrap-dashboard-react/#/admin/user-page?ref=lbdr-readme) | [![Tables page ](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/light-bootstrap-dashboard-react/tables-page.png)](https://demos.creative-tim.com/light-bootstrap-dashboard-react/#/admin/table-list?ref=lbdr-readme) | [![Notifications Page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/light-bootstrap-dashboard-react/notifications-page.png)](https://demos.creative-tim.com/light-bootstrap-dashboard-react/#/admin/notifications?ref=lbdr-readme) |
 
+[View More](https://demos.creative-tim.com/light-bootstrap-dashboard-react/#/admin/dashboard?ref=lbdr-readme).
 
-- [Dashboard page](https://demos.creative-tim.com/argon-dashboard/pages/dashboard)
-- [User profile page](https://demos.creative-tim.com/argon-dashboard/pages/profile)
-- [Tables page ](https://demos.creative-tim.com/argon-dashboard/pages/tables)
-- [RTL Page](https://demos.creative-tim.com/argon-dashboard/pages/rtl)
-- [Sign Up page](https://demos.creative-tim.com/argon-dashboard/pages/sign-up)
-- [Login page](https://demos.creative-tim.com/argon-dashboard/pages/sign-in)
+## Quick start
 
+Quick start options:
 
-| Dashboard page | User profile page | Tables page  |
-| --- | --- | ---  |
-| [![Dashboard page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard/dashboard.jpg)](https://demos.creative-tim.com/argon-dashboard/pages/dashboard)  | [![User profile page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard/profile.jpg)](https://demos.creative-tim.com/argon-dashboard/pages/profile.html)  | [![Tables pages](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard/tables.jpg)](https://demos.creative-tim.com/argon-dashboard/pages/tables.html)
-
-| RTL page | Sign Up page | Login page  |
-| --- | --- | ---  |
-| [![RTL page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard/rtl.jpg)](https://demos.creative-tim.com/argon-dashboard/pages/rtl.html)  | [![Sign Up page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard/signup.jpg)](https://demos.creative-tim.com/argon-dashboard/pages/sign-up.html)  | [![Login page](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard/signin.jpg)](https://demos.creative-tim.com/argon-dashboard/pages/sign-in.html)
-
-
-
-
-
-## Download and Installation
-
-- [Download from Github](https://github.com/creativetimofficial/argon-dashboard/archive/master.zip)
-- [Download from Creative Tim](https://www.creative-tim.com/product/argon-dashboard)
-
-
-- Install with Npm: `npm i @creative-tim-official/argon-dashboard-free`
-
-- Install with Yarn: `yarn add @creative-tim-official/argon-dashboard-free`
-
-- Install with Composer: `composer create-project creativetimofficial/argon-dashboard-free`
-
-- Clone from Github: `git clone https://github.com/creativetimofficial/argon-dashboard.git`
-
+- Clone the repo: `git clone https://github.com/creativetimofficial/light-bootstrap-dashboard-react.git`.
+- [Download from Github](https://github.com/creativetimofficial/light-bootstrap-dashboard-react/archive/master.zip).
+- [Download from Creative Tim](https://www.creative-tim.com/product/light-bootstrap-dashboard-react?ref=lbdr-readme).
 
 ## Documentation
 
-The documentation for the Argon Dashboard is hosted at our [website](https://www.creative-tim.com/learning-lab/bootstrap/overview/argon-dashboard).
+The documentation for the Light Bootstrap Dashboard React is hosted at our [website](https://demos.creative-tim.com/light-bootstrap-dashboard-react/#/documentation/?ref=lbdr-readme).
 
 ## File Structure
 
 Within the download you'll find the following directories and files:
 
 ```
-argon-dashboard
-  ├── assets
-  │   ├── css
-  │   ├── fonts
-  │   ├── img
-  │   ├── js
-  │   │   ├── core
-  │   │   ├── plugins
-  │   │   └── argon-dashboard.js
-  │   │   └── argon-dashboard.js.map
-  │   │   └── argon-dashboard.min.js
-  │   └── scss
-  │       ├── argon-dashboard
-  │       └── argon-dashboard.scss
-  ├── docs
-  │   ├── documentation.html
-  ├── pages
-  ├── CHANGELOG.md
-  ├── gulpfile.js
-  ├── package.json
+light-bootstrap-dashboard-react
+.
+├── CHANGELOG.md
+├── ISSUE_TEMPLATE.md
+├── LICENSE.md
+├── README.md
+├── gulpfile.js
+├── jsconfig.json
+├── package.json
+├── Documentation
+│   ├── css
+│   │   ├── demo.css
+│   │   ├── documentation.css
+│   │   └── light-bootstrap-dashboard.css
+│   ├── img
+│   └── tutorial-components.html
+├── public
+│   ├── favicon.ico
+│   ├── index.html
+│   └── manifest.json
+└── src
+    ├── index.js
+    ├── logo.svg
+    ├── routes.js
+    ├── assets
+    │   ├── css
+    │   │   ├── animate.min.css
+    │   │   ├── demo.css
+    │   │   ├── light-bootstrap-dashboard-react.css
+    │   │   ├── light-bootstrap-dashboard-react.css.map
+    │   │   └── light-bootstrap-dashboard-react.min.css
+    │   ├── fonts
+    │   │   ├── nucleo-icons.eot
+    │   │   ├── nucleo-icons.svg
+    │   │   ├── nucleo-icons.ttf
+    │   │   ├── nucleo-icons.woff
+    │   │   └── nucleo-icons.woff2
+    │   ├── img
+    │   │   └── faces
+    │   └── scss
+    │       ├── lbd
+    │       │   ├── mixins
+    │       │   └── plugins
+    │       ├── lbdr
+    │       │   ├── plugins
+    │       │   └── react-differences.scss
+    │       └── light-bootstrap-dashboard-react.scss
+    ├── layouts
+    │   └── Admin.js
+    ├── components
+    │   ├── FixedPlugin
+    │   │   └── FixedPlugin.js
+    │   ├── Footer
+    │   │   └── Footer.js
+    │   ├── Navbars
+    │   │   └── AdminNavbar.js
+    │   └── Sidebar
+    │       └── Sidebar.js
+    └── views
+        ├── Dashboard.js
+        ├── Icons.js
+        ├── Maps.js
+        ├── Notifications.js
+        ├── TableList.js
+        ├── Typography.js
+        ├── Upgrade.js
+        └── UserProfile.js
 ```
 
 ## Browser Support
@@ -150,44 +134,41 @@ At present, we officially aim to support the last two versions of the following 
 
 ## Resources
 
-- Demo: <https://demos.creative-tim.com/argon-dashboard>
-- Documentation: <https://www.creative-tim.com/learning-lab/bootstrap/overview/argon-dashboard>
-- License Agreement: <https://www.creative-tim.com/license>
-- Support: <https://www.creative-tim.com/contact-us>
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/argon-dashboard/issues)
+- Demo: https://demos.creative-tim.com/light-bootstrap-dashboard-react/#/admin/dashboard?ref=lbdr-readme
+- Download Page: https://www.creative-tim.com/product/light-bootstrap-dashboard-react?ref=lbdr-readme
+- Documentation: https://demos.creative-tim.com/light-bootstrap-dashboard-react/#/documentation/tutorial?ref=lbdr-readme
+- License Agreement: https://www.creative-tim.com/license?ref=lbdr-readme
+- Support: https://www.creative-tim.com/contact-us?ref=lbdr-readme
+- Issues: [Github Issues Page](https://github.com/creativetimofficial/light-bootstrap-dashboard-react/issues)
 
 ## Reporting Issues
 
-We use GitHub Issues as the official bug tracker for the Argon Dashboard. Here are some advices for our users that want to report an issue:
+We use GitHub Issues as the official bug tracker for the Light Bootstrap Dashboard React. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Argon Dashboard. Check the CHANGELOG from your copy on our [website](https://www.creative-tim.com).
+1. Make sure that you are using the latest version of the Light Bootstrap Dashboard React. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/?ref=lbdr-readme).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
+## Technical Support or Questions
+
+If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us?ref=lbdr-readme) instead of opening an issue.
+
 ## Licensing
 
-
-- Copyright &copy; 2022 Creative Tim (https://www.creative-tim.com)
-- Licensed under MIT (https://github.com/creativetimofficial/argon-dashboard/blob/master/LICENSE.md)
-
+- Copyright 2022 Creative Tim (https://www.creative-tim.com?ref=lbdr-readme)
+- Licensed under MIT (https://github.com/creativetimofficial/light-bootstrap-dashboard-react/blob/master/LICENSE.md)
 
 ## Useful Links
 
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=mk-github-readme) (earn money)
-- [Blog Creative Tim](http://blog.creative-tim.com/)
-- [Free Products](https://www.creative-tim.com/bootstrap-themes/free?ref=mk-github-readme) from Creative Tim
-- [Premium Products](https://www.creative-tim.com/bootstrap-themes/premium?ref=mk-github-readme) from Creative Tim
-- [React Products](https://www.creative-tim.com/bootstrap-themes/react-themes?ref=mk-github-readme) from Creative Tim
-- [Angular Products](https://www.creative-tim.com/bootstrap-themes/angular-themes?ref=mk-github-readme) from Creative Tim
-- [VueJS Products](https://www.creative-tim.com/bootstrap-themes/vuejs-themes?ref=mk-github-readme) from Creative Tim
-- [More products](https://www.creative-tim.com/bootstrap-themes?ref=mk-github-readme) from Creative Tim
-- [Argon Design](https://www.creative-tim.com/design-system/argon)
-- Check our Bundles [here](https://www.creative-tim.com/bundles?ref=mk-github-readme)
-- [Get Discount](https://www.creative-tim.com/coupon)
+More products from Creative Tim: <https://www.creative-tim.com/products?ref=lbdr-readme>
 
+Tutorials: <https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w>
 
-## Social Media
+Freebies: <https://www.creative-tim.com/products?ref=lbdr-readme>
+
+Affiliate Program (earn money): <https://www.creative-tim.com/affiliates/new?ref=lbdr-readme>
+
+Social Media:
 
 Twitter: <https://twitter.com/CreativeTim>
 
@@ -195,6 +176,6 @@ Facebook: <https://www.facebook.com/CreativeTim>
 
 Dribbble: <https://dribbble.com/creativetim>
 
-TikTok: <https://tiktok.com/@creative.tim>
+Google+: <https://plus.google.com/+CreativetimPage>
 
 Instagram: <https://instagram.com/creativetimofficial>

@@ -1,50 +1,51 @@
 {
-  "name": "argon-dashboard",
-  "version": "2.0.4",
-  "description": "Freebie Dashboard for Bootstrap 5",
-  "main": "pages/dashboard.html",
-  "directories": {
-    "example": "root"
+  "name": "light-bootstrap-dashboard-react",
+  "version": "2.0.1",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "5.15.2",
+    "bootstrap": "4.6.0",
+    "chartist": "0.11.4",
+    "gulp": "4.0.2",
+    "gulp-append-prepend": "1.0.9",
+    "react": "18.2.0",
+    "reactstrap": "8.8.1",
+    "react-bootstrap": "2.4.0",
+    "react-chartist": "0.14.4",
+    "react-dom": "18.2.0",
+    "react-notification-alert": "0.0.13",
+    "react-router": "5.2.0",
+    "react-router-dom": "5.2.0",
+    "react-scripts": "5.0.1",
+    "sass": "1.53.0"
+  },
+  "optionalDependencies": {
+    "jquery": "3.5.1",
+    "typescript": "4.7.4"
   },
   "scripts": {
-    "open-app": "gulp open-app",
-    "start": "npm run open-app",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "watch": "gulp-watch"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "install:clean": "rm -rf node_modules/ && rm -rf package-lock.json && npm install && npm start",
+    "compile:scss": "sass src/assets/scss/light-bootstrap-dashboard-pro-react.scss src/assets/css/light-bootstrap-dashboard-pro-react.css",
+    "minify:scss": "sass src/assets/scss/light-bootstrap-dashboard-pro-react.scss src/assets/css/light-bootstrap-dashboard-pro-react.min.css --style compressed",
+    "build:scss": "npm run compile:scss && npm run minify:scss"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/creativetimofficial/argon-dashboard.git"
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
   },
-  "keywords": [
-    "argon dashboard",
-    "bootstrap 5",
-    "dashboard",
-    "creative tim",
-    "html dashboard",
-    "html css dashboard",
-    "web dashboard",
-    "freebie",
-    "free bootstrap dashboard",
-    "css3 dashboard",
-    "bootstrap dashboard",
-    "frontend",
-    "responsive bootstrap dashboard"
-  ],
-  "author": "Creative Tim <hello@creative-tim.com> (https://www.creative-tim.com/)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/creativetimofficial/argon-dashboard/issues"
-  },
-  "devDependencies": {
-    "gulp": "^4.0.2",
-    "gulp-autoprefixer": "^7.0.1",
-    "gulp-clean": "^0.4.0",
-    "gulp-install": "^1.1.0",
-    "gulp-sass": "^5.1.0",
-    "gulp-sourcemaps": "^2.6.5",
-    "gulp-open": "^3.0.1",
-    "sass": "^1.49.9"
-  },
-  "homepage": "http://creative-tim.com/product/argon-dashboard"
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
 }
