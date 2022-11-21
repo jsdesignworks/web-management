@@ -1,0 +1,21 @@
+{
+    "appName": "jsdwwebsolutions",
+    "roleName": "pinpointLambdaRole7f67b93f",
+    "cloudformationPolicyName": "cloudformationPolicy7f67b93f",
+    "cloudWatchPolicyName": "cloudWatchPolicy7f67b93f",
+    "pinpointPolicyName": "pinpointPolicy7f67b93f",
+    "authPolicyName": "pinpoint_amplify_7f67b93f",
+    "unauthPolicyName": "pinpoint_amplify_7f67b93f",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "authRoleArn": {
+        "Fn::GetAtt": [
+            "AuthRole",
+            "Arn"
+        ]
+    }
+}

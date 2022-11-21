@@ -58,5 +58,18 @@
         ]
       }
     }
+  },
+  "storage": {
+    "s3jsdwwsstorage": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": []
+    }
+  },
+  "analytics": {
+    "jsdwwebsolutions": {
+      "service": "Pinpoint",
+      "providerPlugin": "awscloudformation"
+    }
   }
 }

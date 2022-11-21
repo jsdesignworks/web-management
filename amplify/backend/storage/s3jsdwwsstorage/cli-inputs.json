@@ -1,0 +1,12 @@
+{
+  "resourceName": "s3jsdwwsstorage",
+  "bucketName": "jsdw-ws-storage",
+  "policyUUID": "c62a1606",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}

@@ -19,5 +19,18 @@ export type AmplifyDependentResourcesAttributes = {
             "AppClientID": "string",
             "CreatedSNSRole": "string"
         }
+    },
+    "storage": {
+        "s3jsdwwsstorage": {
+            "BucketName": "string",
+            "Region": "string"
+        }
+    },
+    "analytics": {
+        "jsdwwebsolutions": {
+            "Region": "string",
+            "Id": "string",
+            "appName": "string"
+        }
     }
 }
